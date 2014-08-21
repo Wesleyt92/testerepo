@@ -5,10 +5,11 @@ eject
 
 sleep 1
 
-Echo "A gaveta será fechada."
+Echo "A gaveta será fechada.
+
+
+"
 sleep 1
 
 eject -t
 
-
-Echo "So para ver como funciona"
